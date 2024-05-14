@@ -1,0 +1,3 @@
+## Calculadora de Rendimentos - CDB
+
+Este é um programa simples que calcula, com base numa fórmula de juros compostos, o rendimento de um capital ao longo de um determinado período de tempo, o tempo que levaria pra um capital inicial chegar a um montante desejado com base em uma taxa de juros e também o calculo de uma taxa de juros com base no quanto um investimento rendeu durante o tempo que ficou inalterado. Nessa aplicação, não foi implementado o tratamento de erros ainda.
